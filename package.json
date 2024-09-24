@@ -27,6 +27,6 @@
     "request"
   ],
   "devDependencies": {
-    "rollup": "^2.13.0"
+    "rollup": "^3.29.5"
   }
 }
